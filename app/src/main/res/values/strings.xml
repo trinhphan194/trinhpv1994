@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    
+    <string name="tvtDangKy">Register</string>
+    <string name="edtHoTen">Name</string>
+    <string name="edtTaiKhoan">Account</string>
+    <string name="edtMatKhau">PassWord</string>
+    <string name="btnXacNhan">Confirm</string>
+</resources>

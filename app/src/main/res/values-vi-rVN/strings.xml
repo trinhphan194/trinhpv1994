@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MultiLanguage</string>
+    <string name="tvtDangKy">Đăng Ký</string>
+    <string name="edtHoTen">Họ Tên</string>
+    <string name="edtTaiKhoan">Tài Khoản</string>
+    <string name="edtMatKhau">Mật Khẩu</string>
+    <string name="btnXacNhan">Xác Nhận</string>
+</resources>
